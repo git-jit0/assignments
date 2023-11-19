@@ -9,7 +9,7 @@ int main()
     a=b;
     b=c;
 
-    printf("The number is %d%d and swap is %d%d",b,a,a,b);
+    printf("The swapped numbers are %d%d",a,b);
     
     return 0;
 }
